@@ -1,17 +1,13 @@
 # main links links
 main:
 
-  - title: "Education and Work"
-    url: /publications/
     
   - title: "Publications"
     url: /publications/
 
  # - title: "Talks"
  #   url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
+  
     
  # - title: "Portfolio"
  #   url: /portfolio/
@@ -22,5 +18,8 @@ main:
  # - title: "CV"
  #    url: /cv/
     
-  - title: "Current Supervision"
+  - title: "Supervision"
     url: /markdown/
+    
+  - title: "Teaching"
+    url: /teaching/  
