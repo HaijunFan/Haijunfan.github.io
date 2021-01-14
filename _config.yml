@@ -80,9 +80,9 @@ yandex_site_verification :
 
 # Site Author
 author:
-  name             : "Haijun Fan"
+  name             : "Dr. Haijun Fan, Assistant Professor"
   avatar           : "profile.png"
-  bio              : "Assistant Professor, h.fan@hw.ac.uk"
+  bio              : "h.fan@hw.ac.uk"
   location         : "Edinburgh, United Kingdom"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
