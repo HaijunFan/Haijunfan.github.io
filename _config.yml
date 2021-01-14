@@ -82,7 +82,7 @@ yandex_site_verification :
 author:
   name             : "Dr. Haijun Fan, Assistant Professor"
   avatar           : "profile.png"
-  bio              : "h.fan@hw.ac.uk"
+  bio              : "h.fan at hw.ac.uk"
   location         : "Edinburgh, United Kingdom"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -228,22 +228,22 @@ defaults:
       share: true
       comments: true
   # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+  # - scope:
+   #    path: ""
+  #     type: portfolio
+  #   values:
+   #    layout: single
+  #     author_profile: true
+  #     share: true
+   #    comment: true
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+  #- scope:
+    #   path: ""
+    #   type: talks
+   #  values:
+    #   layout: talk
+    #   author_profile: true
+    #   share: true
 
 # Sass/SCSS
 sass:
