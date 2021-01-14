@@ -83,10 +83,10 @@ author:
   name             : "Haijun Fan"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Heriot-Watt University, Edinburgh, United Kingdom"
+  location         : "Edinburgh, United Kingdom"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=UZBfeOYAAAAJ&hl=en"
   email            :  "h.fan@hw.ac.uk"
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   # uri              :
