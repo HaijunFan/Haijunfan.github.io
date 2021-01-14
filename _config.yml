@@ -209,6 +209,14 @@ defaults:
     values:
       layout: single
       author_profile: true
+   # _Eudcation and Work
+  - scope:
+      path: ""
+      type: Eudcation and Work
+    values:
+      layout: single
+      author_profile: true  
+      
   # _teaching
   - scope:
       path: ""
