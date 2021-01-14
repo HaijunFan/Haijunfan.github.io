@@ -11,9 +11,12 @@ redirect_from:
 Dr. Haijun Fan is an Assistant Professor at the Institute of Sensors, Signals and Systems (ISSS), Heriot-Watt University, Edinburgh, UK from Nov. 2020. From 2016 to 2017, he was a Post-Doctoral Fellow working with Prof. Ke-li Wu in the Department of Electronic Engineering, The Chinese University of Hong Kong, Hong Kong SAR, China. From 2018 to 2019, he was a Research Associate working with Prof. George Goussetis in ISSS, Heriot-Watt University, Edinburgh, U.K. From 2019 to 2020, he was a Senior Design Engineer in MMIC power amplifier area with Ampleon, Nijmegen, The Netherlands. He received the B.S.degree in applied physics from the University of Electronic Science and Technology of China,
 Chengdu, China, in 2009, and the M.S. degree in electromagnetic and microwave technology and the Ph.D. degree in electronic science and technology from Shanghai Jiao Tong University, Shanghai, China, in 2011 and 2016, respectively.
 
-#Research Interests
-Monolithic microwave integrated circuit (MMIC) power amplifier
-filter synthesis, antenna array, and 5G/6G related areas.
+Research Interests
+------------------
+-Monolithic microwave integrated circuit (MMIC) power amplifier
+-Microwave Filter
+-Antenna array
+-Wireless communication system
 
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
