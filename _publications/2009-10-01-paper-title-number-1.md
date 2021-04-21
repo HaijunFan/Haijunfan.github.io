@@ -5,5 +5,6 @@ Author: Liang Liu, Xianling Liang, Ronghong Jin, Haijun Fan, Xudong Bai, Han Zho
 date: 2021-01-12
 venue: 'IEEE Transactions on Microwave Theory and Techniques'
 ---
-Author: Liang Liu, Xianling Liang, Ronghong Jin, Haijun Fan, Xudong Bai, Han Zhou, Junping Geng
+Author: L. Liu, X. Liang, R. Jin, H. Fan, X. Bai, H. Zhou, J. Geng
+
 Date: Jan. 2021
